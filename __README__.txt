@@ -1,0 +1,1 @@
+PUT THE decleration.C AND moviedetails.C INTO C:\Users\Public PATH THEN COMPILE THE CODE.
